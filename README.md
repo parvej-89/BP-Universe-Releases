@@ -49,3 +49,17 @@ https://bpuniverse.pages.dev/privacy/
 ---
 
 **BP Universe — Your social universe, in one Android app.**
+
+<!-- BP_LATEST_RELEASE_START -->
+## Latest BP Universe Android release
+
+**BP Universe Build293 — Real-Time Chat List Refresh for Android**
+
+Build293 corrects a notification-handler conflict introduced in Build292 and restores the app-side Firebase message handling used for background message and call alerts. It retains the established call transport and backend configuration. Install on both phones and verify background message and incoming-call alerts.
+
+- Official APK: https://github.com/parvej-89/BP-Universe-Releases/releases/download/v2.5.36-build293-push-fix/BP-Universe-BUILD293-push-handler-fix-signed.apk
+- Official download page: https://bpuniverse.pages.dev/download/
+- Release notes: https://bpuniverse.pages.dev/releases/
+- Product features: https://bpuniverse.pages.dev/features/
+
+<!-- BP_LATEST_RELEASE_END -->
